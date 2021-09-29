@@ -116,7 +116,7 @@
      margin: 0 auto;
      width: 100%;
      min-width: 1200px;
-     height: 100%;
+     height: 750px;
      padding-top: 60px;
      background-color: #F0F2F5;
  }
@@ -124,7 +124,7 @@
  .sidebar {
      position: sticky;
      width: 345px;
-     height: 720px;
+     height: 100%;
  }
  
  .sidebar img {
@@ -178,7 +178,7 @@
  
  .content .overflow {
      width: 550px;
-     height: 650px;
+     height: 100%;
      overflow: hidden;
  }
  
@@ -379,7 +379,7 @@
  
  .content .overflow:last-of-type {
      width: 330px;
-     height: 620px;
+     height: 100%;
      overflow: hidden;
  }
  
